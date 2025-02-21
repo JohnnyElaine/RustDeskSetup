@@ -74,5 +74,5 @@ Password: AzWNHPEyXUrZ
 
 ## Enable unattended Access
 1. Select 3 Small dots nex to **ID**
-2. Password -> Confirm Session with Password
-3. Set Permanent Password
+2. Security -> Password -> Accept sessions with password
+3. User Permanent Password -> Set Permanent Password
