@@ -11,11 +11,8 @@
 
 # How to setup RustDesk Client
 ## Automatic install via Script (Recommended)
-Go to http://138.2.137.178:8000 in your browser.
-
-Enter `username` and `passwort`. (Sent seperately)
 ### Linux
-1. Download `linuxclientinstall.sh`. 
+1. Download `linuxclientinstall.sh` from github. Or from the [RustDesk-server](http://138.2.137.178:8000) directly, if you have the credentials.
 2. Open the Terminal
 3. Go to the directory where `linuxclientinstall.sh` is.
 4. Execute `./linuxclientinstall.sh`
@@ -32,7 +29,7 @@ Password: AzWNHPEyXUrZ
 
 
 ### Windows
-1. Download `WindowsAgentAIOInstall.ps1`. 
+1. Download `WindowsAgentAIOInstall.ps1` from github. Or from the [RustDesk-server](http://138.2.137.178:8000) directly, if you have the credentials.
 2. Open PowerShell as Administrator
 3. Go to the directory where `WindowsAgentAIOInstall.ps1` is.
 4. Execute `Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope Process`. (This temporarely allows the execution of all PowerShelll Scripts, until the Session is closed)
