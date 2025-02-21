@@ -59,8 +59,8 @@ Password: AzWNHPEyXUrZ
 1. `yum install epel-release`
 2. Download the current [libxdo](https://rhel.pkgs.org/9/epel-x86_64/libxdo-3.20211022.1-1.el9.x86_64.rpm.html) version (See Download Link at the bottom of the page). You can search for it with this [query](https://pkgs.org/search/?q=libxdo).
 3. Download libxdo using `wget https://dl.fedoraproject.org/pub/epel/9/Everything/x86_64/Packages/l/libxdo-3.20211022.1-1.el9.x86_64.rpm`
-4. `sudo yum localinstall libxdo-3.20211022.1-1.el9.x86_64.rpm`
-5. Download the latest `.rpm` package from [github](https://github.com/rustdesk/rustdesk/releases).
+4. `sudo yum localinstall libxdo-<version>.x86_64.rpm` e.g. `sudo yum localinstall libxdo-3.20211022.1-1.el9.x86_64.rpm`
+5. Download the latest RustDesk `.rpm` package from [github](https://github.com/rustdesk/rustdesk/releases).
 6. `sudo yum localinstall ./rustdesk-<version>.rpm`. e.g. `sudo yum localinstall rustdesk-1.3.7-0.x86_64.rpm`
 
 ## Network Configuration
