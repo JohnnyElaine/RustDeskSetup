@@ -74,5 +74,12 @@ Password: AzWNHPEyXUrZ
 
 ## Enable unattended Access
 1. Select 3 Small dots nex to **ID**
-2. Security -> Password -> Accept sessions with password
-3. User Permanent Password -> Set Permanent Password
+2. Security -> Password -> Set Permanent Password
+
+### Power Settings
+#### CentOS
+Make sure the screen does not lock!
+1. Settings -> Power --> Power Saving --> Autmatic Suspend --> Turn Off
+
+# Testing
+
