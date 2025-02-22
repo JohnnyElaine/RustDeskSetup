@@ -34,10 +34,11 @@
 8. ![Select the Network Tab](./img/how_to_select_correct_network_tab.png)
 9. Copy `=0nI9sGUwlGVIx0M4hzSxUTc5lXN1kzbW1UNVxUeOREZpVGeCtmcp5Ga1JEar5kI6ISeltmIsICO3EjL3MTMuIjL4MTMv8iOzBHd0hmI6ISawFmIsICO3EjL3MTMuIjL4MTMiojI5FGblJnIsICO3EjL3MTMuIjL4MTMiojI0N3boJye`
 10. ![Paste the config](./img/paste_network_config.png)
-11. ![Enter the Network Config](./img/verify_network_config.png)
-12. ![Connect To Remote Pc](./img/connect_to_remote_pc.png)
-13. ![Enter the Password](./img/how_to_enter_password.png)
-14. ![Fix the video size](./img/how_to_fix_video_size.png) 
+11. ![Automatically entered Network Config](./img/enter_network_config.png)
+12. ![Verify the Network Config](./img/verify_network_config.png)
+13. ![Connect To Remote Pc](./img/connect_to_remote_pc.png)
+14. ![Enter the Password](./img/how_to_enter_password.png)
+15. ![Fix the video size](./img/how_to_fix_video_size.png) 
 
 # Automatic install via script (Option 3)
 1. Download and run script from [github](https://github.com/JohnnyElaine/RustDeskSetup)
