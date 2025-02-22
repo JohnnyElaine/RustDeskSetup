@@ -53,7 +53,9 @@ Password: AzWNHPEyXUrZ
 1. Download and install `rustdesk-1.3.7-x86_64.msi` or ` rustdesk-1.3.7-x86_64.exe `
 ### Linux install
 #### Debian (Ubuntu): 
-`rustdesk-1.3.7-x86_64.deb`
+1. Download `rustdesk-1.3.7-x86_64.deb` from the official [github](https://github.com/rustdesk/rustdesk/releases).
+2. `sudo apt install -fy ./rustdesk-<version>.deb`
+3. [Go to Network Configuration](#network-configuration)
 #### RPM (RedHat, CentOS)
 
 1. `yum install epel-release`
@@ -62,6 +64,7 @@ Password: AzWNHPEyXUrZ
 4. `sudo yum localinstall libxdo-<version>.x86_64.rpm` e.g. `sudo yum localinstall libxdo-3.20211022.1-1.el9.x86_64.rpm`
 5. Download the latest RustDesk `.rpm` package from [github](https://github.com/rustdesk/rustdesk/releases).
 6. `sudo yum localinstall ./rustdesk-<version>.rpm`. e.g. `sudo yum localinstall rustdesk-1.3.7-0.x86_64.rpm`
+7. [Go to Network Configuration](#network-configuration)
 
 ## Network Configuration
 1. Select 3 Small dots nex to **ID**
